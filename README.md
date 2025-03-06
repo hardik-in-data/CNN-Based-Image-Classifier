@@ -43,8 +43,8 @@ pip install tensorflow tensorflow-datasets numpy matplotlib
 ### Running the Model
 1. Clone the repository:
    ```bash
-   git clone <repo_link>
-   cd <repo_directory>
+   git clone https://github.com/thenotorioushardik/CNN-Based-Image-Classifier.git
+   cd CNN-Based-Image-Classifier
    ```
 2. Open the Jupyter Notebook:
    ```bash
