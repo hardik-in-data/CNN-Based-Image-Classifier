@@ -32,14 +32,14 @@ This project implements a **Convolutional Neural Network (CNN)** for image class
    - Making predictions on external images.
    - Batch processing images without predefined class labels.
 
-## 🛠 Installation
+## Installation
 To set up the environment, install the required dependencies:
 
 ```bash
 pip install tensorflow tensorflow-datasets numpy matplotlib
 ```
 
-## 📂 Usage
+## Usage
 ### Running the Model
 1. Clone the repository:
    ```bash
@@ -61,7 +61,7 @@ pip install tensorflow tensorflow-datasets numpy matplotlib
 - Regularisation techniques and data augmentation help mitigate overfitting.
 - Real-world testing ensures adaptability to unseen data.
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch (`feature-improvement`).
