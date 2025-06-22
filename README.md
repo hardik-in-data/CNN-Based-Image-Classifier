@@ -57,7 +57,7 @@ pip install tensorflow tensorflow-datasets numpy matplotlib
    - Perform real-world classification on custom images.
 
 ## Model Performance Analysis
-- Achieves **~80-90% accuracy** on CIFAR-10 test data.
+- Achieves **80-90% accuracy** on CIFAR-10 test data.
 - Regularisation techniques and data augmentation help mitigate overfitting.
 - Real-world testing ensures adaptability to unseen data.
 
